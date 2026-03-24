@@ -2,119 +2,125 @@
 
 🚀 Software Engineer | Backend Developer | Pega Certified Professional  
 📍 Almere, Netherlands
+I’m a Software Engineer with **2.7+ years of experience** in backend development, system integration, and production support for large-scale applications. I specialize in building scalable backend systems, designing RESTful APIs, and improving application reliability.
 
-I’m a Software Engineer with 2.7+ years of experience in backend development, system integration, and production support. I enjoy building scalable systems, solving complex technical problems, and continuously learning new technologies.
+Currently strengthening expertise in **backend engineering, distributed systems, and cloud-native development** while building production-style portfolio projects.
 
 ---
 
 ## 💻 Tech Stack
 
-### Programming & Scripting
-- Java · JavaScript · SQL · C#
-- HTML5 · CSS3
+### 🧑‍💻 Programming
 
-### Backend & Databases
-- Spring Boot · Spring Framework · Hibernate
-- REST & SOAP APIs
-- MongoDB · PostgreSQL · MySQL
+Java · SQL · JavaScript · C# · HTML5 · CSS3
 
-### Platforms & Tools
-- Pega Platform (7.x, 8.x, Constellation)
-- Git · GitHub · Postman · IntelliJ IDEA
-- Azure DevOps · Android Studio
+### ⚙️ Backend Development
 
-### Cloud & DevOps
-- AWS (Cloud Practitioner)
-- Microsoft Azure (AZ-900)
-- CI/CD Pipelines
+Spring Boot · Spring Framework · Spring Data JPA · Hibernate
+REST APIs · Microservices Architecture
 
-### Operating Systems
-- Linux · Windows · Android
+### 🗄 Databases
 
----
+PostgreSQL · MySQL · MongoDB · Relational Schema Design
 
-## 📂 Featured Experience
+### ☁️ Cloud & DevOps
 
-### 🔹 Pega Developer (Internship) | Swiftrinity (Dec 2025 – Jan 2026)
-📍 Almere, Netherlands (Hybrid)
+AWS (Cloud Practitioner) · Azure (AZ-900)
+CI/CD Pipelines · Git · GitHub · Docker (Learning)
 
-- Developed a full-cycle Mortgage Application in Pega from submission to approval and closure  
-- Designed case stages and workflows using Pega Blueprints  
-- Implemented business logic with Decision Tables, Validation Rules, and SLAs  
-- Configured modern UI using Pega Constellation  
-- Performed debugging and performance optimization  
-- 🏆 Earned **Low-Code App Builder (Extended) Badge**
+### 🛠 Tools
+
+Postman · Swagger · IntelliJ IDEA · Linux · Azure DevOps · Android Studio
 
 ---
 
-### 🔹 AI Full Stack Development Intern | GUVI (HCL–GUVI) (2025 – Present)
-- Developing backend services using Spring Boot  
-- Building RESTful APIs and MongoDB schemas  
-- Following clean architecture and Agile workflows  
-- Integrating frontend and backend systems  
+## 📂 Professional Experience
+
+### 🔹 AI Full Stack Development Program — GUVI (HCL Group) *(2025–Present)*
+
+* Developing scalable backend services using **Java & Spring Boot**
+* Designing microservices-based architectures
+* Implementing event-driven systems using **Apache Kafka**
+* Designing MongoDB & PostgreSQL schemas
+* Building clean layered architectures (Controller–Service–Repository)
+* API testing & documentation using Postman and Swagger
 
 ---
 
-### 🔹 Smart TV Application Support Engineer | Whale OS (2020 – 2022)
-- Supported 60+ Smart TV applications  
-- Debugged backend and DRM-related issues  
-- Managed CI/CD validation and releases  
-- Improved app stability and performance  
+### 🔹 Smart TV Application Support Engineer — Whale TV *(2020–2022)*
+
+* Supported and debugged **60+ Smart TV applications**
+* Investigated backend workflows and DRM integrations
+* Worked with CI/CD pipelines and release validation
+* Improved application stability and performance
 
 ---
 
-### 🔹 Software Associate | EAI Systems (2018 – 2019)
-- Developed workflows and case management in Pega  
-- Implemented data pages and SLA rules  
-- Built REST and SOAP integrations  
-- Worked in Agile Scrum environment  
+### 🔹 Software Associate — EAI Systems *(2018–2019)*
+
+* Developed enterprise workflows using **Pega Platform**
+* Built REST & SOAP integrations
+* Implemented SLA rules and routing logic
+* Worked in Agile Scrum teams
 
 ---
 
 ## 🎓 Education
 
-🎓 Bachelor of Computer Engineering – Mumbai University (2017)  
-📘 Evaluated as Dutch HBO Level (IDW)
+🎓 Bachelor of Computer Engineering — Mumbai University (2017)
+Equivalent to **Dutch HBO Level** (IDW Evaluation)
 
 ---
 
 ## 🏆 Certifications
 
-- ✅ Pega Certified Senior System Architect (CPSSA)  
-- ✅ AWS Cloud Practitioner  
-- ✅ Microsoft Azure Fundamentals (AZ-900)  
-- ✅ SEED Certified Java Specialist  
+* ✅ Pega Certified Senior System Architect (CPSSA)
+* ✅ AWS Cloud Practitioner
+* ✅ Microsoft Azure Fundamentals (AZ-900)
+* ✅ SEED Certified Java Specialist
 
 ---
 
-## 🌱 What I’m Currently Working On
+## 🌱 Currently Working On
 
-- Improving backend system design  
-- Learning advanced cloud and DevOps practices  
-- Enhancing Pega Constellation & modern architectures  
-- Building portfolio projects in Java & Spring Boot  
+* Backend system design & scalability
+* Spring Boot production architecture
+* Docker & DevOps workflows
+* Subscription Manager API (Portfolio Project)
 
 ---
 
-## ✨ What I Enjoy
+## 📌 Featured Project
 
-✔ Solving real-world technical problems  
-✔ Building reliable backend systems  
-✔ Working in Agile teams  
-✔ Learning new tools and technologies  
+🔹 **Subscription Manager API**
+Backend system inspired by OTT platforms for managing plans, subscriptions, and invoices.
+
+Tech:
+
+* Spring Boot
+* REST APIs
+* In-memory → MySQL migration
+* JWT Authentication (planned)
+
+👉 Check repositories below 👇
 
 ---
 
 ## 🌍 Languages
 
-- English – Fluent  
-- Dutch – B1 Level  
+* English — Fluent
+* Dutch — B1 Level
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact
 
-📧 Email: Shalinimano2595@gmail.com  
-📍 Location: Almere, Netherlands  
+📧 Email: [Shalinimano2595@gmail.com](mailto:Shalinimano2595@gmail.com)
+📍 Almere, Netherlands
+
+---
+
+⭐ *Always learning, building, and improving backend systems.*
+ 
 
 Feel free to explore my repositories and connect with me!
