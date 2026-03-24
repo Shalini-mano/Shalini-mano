@@ -2,8 +2,8 @@
 
 🚀 Software Engineer | Backend Developer | Pega Certified Professional  
 📍 Almere, Netherlands
-I’m a Software Engineer with **2.7+ years of experience** in backend development, system integration, and production support for large-scale applications. I specialize in building scalable backend systems, designing RESTful APIs, and improving application reliability.
 
+I’m a Software Engineer with **2.7+ years of experience** in backend development, system integration, and production support for large-scale applications. I specialize in building scalable backend systems, designing RESTful APIs, and improving application reliability.
 Currently strengthening expertise in **backend engineering, distributed systems, and cloud-native development** while building production-style portfolio projects.
 
 ---
