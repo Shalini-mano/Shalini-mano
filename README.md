@@ -1,126 +1,194 @@
 # 👋 Hi, I'm Shalini
 
-🚀 Software Engineer | Backend Developer | Pega Certified Professional  
+🚀 Software Engineer | Backend Developer | Java & Spring Boot Developer  
 📍 Almere, Netherlands
 
-I’m a Software Engineer with **2.7+ years of experience** in backend development, system integration, and production support for large-scale applications. I specialize in building scalable backend systems, designing RESTful APIs, and improving application reliability.
-Currently strengthening expertise in **backend engineering, distributed systems, and cloud-native development** while building production-style portfolio projects.
+I’m a Software Engineer with **2.7+ years of experience** in backend development, enterprise application support, and system integration for large-scale applications. I specialize in building scalable backend systems, designing secure REST APIs, and implementing production-ready architectures using modern Java technologies.
+
+Currently focused on strengthening expertise in **backend engineering, microservices, distributed systems, cloud-native applications, and DevOps workflows** while building real-world production-style portfolio projects.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### 🧑‍💻 Programming
+## 🧑‍💻 Programming Languages
 
-Java · SQL · JavaScript · C# · HTML5 · CSS3
-
-### ⚙️ Backend Development
-
-Spring Boot · Spring Framework · Spring Data JPA · Hibernate
-REST APIs · Microservices Architecture
-
-### 🗄 Databases
-
-PostgreSQL · MySQL · MongoDB · Relational Schema Design
-
-### ☁️ Cloud & DevOps
-
-AWS (Cloud Practitioner) · Azure (AZ-900)
-CI/CD Pipelines · Git · GitHub · Docker (Learning)
-
-### 🛠 Tools
-
-Postman · Swagger · IntelliJ IDEA · Linux · Azure DevOps · Android Studio
+Java · SQL · JavaScript · C# · HTML5 · CSS3 . MongoDB
 
 ---
 
-## 📂 Professional Experience
+## ⚙️ Backend Development
 
-### 🔹 AI Full Stack Development Program — GUVI (HCL Group) *(2025–Present)*
+Spring Boot · Spring Framework · Spring Security  
+Spring Data JPA · Hibernate · JWT Authentication  
+REST APIs · Microservices Architecture  
+Layered Architecture · DTO Pattern · Exception Handling  
+Validation · Pagination · Role-Based Authorization
 
-* Developing scalable backend services using **Java & Spring Boot**
-* Designing microservices-based architectures
+---
+
+## 🗄 Databases
+
+PostgreSQL · MySQL · MongoDB  
+Relational Schema Design · JPA/Hibernate ORM
+
+---
+
+## ☁️ Cloud & DevOps
+
+AWS Cloud Practitioner · Azure Fundamentals (AZ-900)  
+Docker · CI/CD Pipelines · GitHub Actions  
+Git · GitHub · Linux · Render Deployment
+
+---
+
+## 📨 Messaging & Distributed Systems
+
+Apache Kafka · Event-Driven Architecture  
+Asynchronous Communication
+
+---
+
+## 🧪 Testing & Documentation
+
+JUnit 5 · Mockito · Unit Testing  
+Postman · Swagger / OpenAPI Documentation
+
+---
+
+## 🛠 Tools & Platforms
+
+IntelliJ IDEA · VS Code · Postman  
+Swagger UI · Azure DevOps · Android Studio
+
+---
+
+# 📂 Professional Experience
+
+## 🔹 AI Full Stack Development Program — GUVI (HCL Group) *(2025–Present)*
+
+* Building scalable backend systems using **Java & Spring Boot**
+* Developing RESTful APIs using clean layered architecture
+* Designing microservices-based applications
 * Implementing event-driven systems using **Apache Kafka**
-* Designing MongoDB & PostgreSQL schemas
-* Building clean layered architectures (Controller–Service–Repository)
+* Working with PostgreSQL and MongoDB databases
+* Implementing JWT Authentication & Role-Based Authorization
+* Writing unit tests using **JUnit 5 & Mockito**
 * API testing & documentation using Postman and Swagger
+* Learning Docker, CI/CD, and production deployment workflows
 
 ---
 
-### 🔹 Smart TV Application Support Engineer — Whale TV *(2020–2022)*
+## 🔹 Smart TV Application Support Engineer — Whale TV *(2020–2022)*
 
 * Supported and debugged **60+ Smart TV applications**
-* Investigated backend workflows and DRM integrations
+* Investigated backend workflows, API integrations, and DRM systems
 * Worked with CI/CD pipelines and release validation
-* Improved application stability and performance
+* Improved production stability and application performance
+* Coordinated issue resolution across cross-functional teams
 
 ---
 
-### 🔹 Software Associate — EAI Systems *(2018–2019)*
+## 🔹 Software Associate — EAI Systems *(2018–2019)*
 
-* Developed enterprise workflows using **Pega Platform**
+* Developed enterprise workflows using the **Pega Platform**
 * Built REST & SOAP integrations
-* Implemented SLA rules and routing logic
-* Worked in Agile Scrum teams
+* Implemented SLA rules, routing logic, and case management
+* Worked in Agile Scrum development environments
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-🎓 Bachelor of Computer Engineering — Mumbai University (2017)
+🎓 Bachelor of Computer Engineering — Mumbai University (2017)  
 Equivalent to **Dutch HBO Level** (IDW Evaluation)
 
 ---
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 * ✅ Pega Certified Senior System Architect (CPSSA)
-* ✅ AWS Cloud Practitioner
+* ✅ AWS Certified Cloud Practitioner
 * ✅ Microsoft Azure Fundamentals (AZ-900)
 * ✅ SEED Certified Java Specialist
 
 ---
 
-## 🌱 Currently Working On
+# 🌱 Currently Working On
 
-* Backend system design & scalability
 * Spring Boot production architecture
+* Backend scalability & system design
+* Distributed systems with Apache Kafka
 * Docker & DevOps workflows
-* Subscription Manager API (Portfolio Project)
+* JWT Authentication & Security
+* Subscription Manager API
+* Inventory Management System API
 
 ---
 
-## 📌 Featured Project
+# 📌 Featured Projects
 
-🔹 **Subscription Manager API**
-Backend system inspired by OTT platforms for managing plans, subscriptions, and invoices.
+## 🔹 Subscription Manager API
 
-Tech:
+Production-style backend system inspired by OTT subscription platforms.
 
+### Tech Used
+
+* Java 17
 * Spring Boot
+* Spring Security
+* JWT Authentication
+* PostgreSQL / MySQL
 * REST APIs
-* In-memory → MySQL migration
-* JWT Authentication (planned)
+* Swagger OpenAPI
+* JUnit 5 & Mockito
 
-👉 Check repositories below 👇
+### Features
+
+* User authentication & authorization
+* Subscription & plan management
+* Invoice generation
+* Role-based access control
+* Layered architecture implementation
 
 ---
 
-## 🌍 Languages
+## 🔹 Inventory Management System API
+
+Backend inventory management system built using modern Spring Boot architecture.
+
+### Tech Used
+
+* Java 17
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* MySQL
+* Swagger OpenAPI
+* JUnit 5 & Mockito
+
+### Features
+
+* Product & category management
+* Order processing
+* Stock management
+* RESTful APIs
+* Unit testing & validation
+
+---
+
+# 🌍 Languages
 
 * English — Fluent
 * Dutch — B1 Level
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-📧 Email: [Shalinimano2595@gmail.com](mailto:Shalinimano2595@gmail.com)
+📧 Email: Shalinimano2595@gmail.com  
 📍 Almere, Netherlands
 
 ---
 
-⭐ *Always learning, building, and improving backend systems.*
- 
-
-Feel free to explore my repositories and connect with me!
+⭐ *Passionate about building scalable backend systems, learning modern technologies, and continuously improving software engineering skills.*
