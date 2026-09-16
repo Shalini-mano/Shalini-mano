@@ -3,7 +3,7 @@
 🚀 Software Engineer | Backend Developer | Java & Spring Boot Developer  
 📍 Almere, Netherlands
 
-I’m a Software Engineer with **2.7+ years of experience** in backend development, enterprise application support, and system integration for large-scale applications. I specialize in building scalable backend systems, designing secure REST APIs, and implementing production-ready architectures using modern Java technologies.
+I’m a Software Engineer with **3.7+ years of experience** in backend development, enterprise application support, and system integration for large-scale applications. I specialize in building scalable backend systems, designing secure REST APIs, and implementing production-ready architectures using modern Java technologies.
 
 Currently focused on strengthening expertise in **backend engineering, microservices, distributed systems, cloud-native applications, and DevOps workflows** while building real-world production-style portfolio projects.
 
